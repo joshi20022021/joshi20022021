@@ -41,9 +41,14 @@
   </br>
   <h3>Frameworks</h3>
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg"
+    src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg?raw=true"
     width="60px"
-    alt="Spring">
+    alt="Django">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg?raw=true"
+    width="60px"
+    alt="Python-Light">
     &nbsp;&nbsp;&nbsp;&nbsp;
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
@@ -59,6 +64,37 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"
     width="60px"
     alt="React">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+</div>
+
+<!-- SKILLS -->
+<div align="center" width="100">
+  <h1>Skills</h1>
+  
+  <img
+    src="https://github.com/tandpfun/skill-icons/blob/main/icons/Premiere.svg?raw=true"
+    width="60px"
+    alt="Premiere Pro">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg?raw=true"
+    width="60px"
+    alt="Photoshop">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://github.com/tandpfun/skill-icons/blob/main/icons/Illustrator.svg?raw=true"
+    width="60px"
+    alt="Illustrator">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://github.com/tandpfun/skill-icons/blob/main/icons/AfterEffects.svg?raw=true"
+    width="60px"
+    alt="After Effects">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://github.com/tandpfun/skill-icons/blob/main/icons/Audition.svg?raw=true"
+    width="60px"
+    alt="Audition">
     &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
