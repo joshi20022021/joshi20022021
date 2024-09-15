@@ -17,11 +17,6 @@
     alt="Java">
     &nbsp;&nbsp;&nbsp;&nbsp;
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/groovy/groovy-original.svg"
-    width="60px"
-    alt="Groovy">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
     width="60px"
     alt="Typescript">
@@ -48,35 +43,12 @@
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg"
     width="60px"
-    alt="Spring (Spring-boot)">
+    alt="Spring">
     &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg"
-    width="60px"
-    alt="Apache Kafka">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-plain-wordmark.svg"
-    width="60px"
-    alt="Gradle">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://logodix.com/logo/699172.png"
-    width="60px"
-    alt="Maven">
-    &nbsp;&nbsp;&nbsp;
-
-  </br>
-
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
     width="60px"
     alt="NodeJS">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg"
-    width="60px"
-    alt="npm">
     &nbsp;&nbsp;&nbsp;&nbsp;
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg"
@@ -88,109 +60,62 @@
     width="60px"
     alt="React">
     &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-plain-wordmark.svg"
-    width="60px"
-    alt="Bootstrap">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg"
-    width="60px"
-    alt="Jasmine">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jasmine/jasmine-plain-wordmark.svg"
-    width="60px"
-    alt="Jasmine">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/karma/karma-original.svg"
-    width="60px"
-    alt="Karma">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <!-- Storages -->
-  </br>
-  <h3>Storages</h3>
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"
-    width="60px"
-    alt="Oracle">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"
-    width="60px"
-    alt="PostgreSQL">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain-wordmark.svg"
-    width="60px"
-    alt="Firebase">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <!-- Tools -->
-  </br>
-  <h3>Tools</h3>
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"
-    width="60px"
-    alt="Git">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original-wordmark.svg"
-    width="60px"
-    alt="GitLab">
-    &nbsp;&nbsp;&nbsp;&nbsp;
+</div>
 
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg"
-    width="60px"
-    alt="Jenkins">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://static.wixstatic.com/media/778dda_9e3bec106a7f4c85b5526ddcf35226cf~mv2.png"
-    width="60px"
-    alt="Openshift">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain-wordmark.svg"
-    width="60px"
-    alt="Kubernetes">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"
-    width="60px"
-    alt="Docker">
-    &nbsp;&nbsp;&nbsp;&nbsp;
+</br>
+</br>
+</br>
+
+<!-- CONTACT -->
+<div align="center" width="100">
+  <h1>📱 Contact</h1>
+
+  <!-- Gmail -->
+  <a href="mailto:your_email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   
-  </br>
-  
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg"
-    width="60px"
-    alt="Jira">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-original-wordmark.svg"
-    width="60px"
-    alt="Confluence">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-plain-wordmark.svg"
-    width="60px"
-    alt="Trello">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png"
-    width="60px"
-    alt="IntelliJ">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg"
-    width="60px"
-    alt="VS Code">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  
+  <!-- WhatsApp -->
+  <a href="https://wa.me/yourwhatsappnumber">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/yourlinkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <!-- GitHub -->
+  <a href="https://github.com/joshi20022021">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <!-- GitLab -->
+  <a href="https://gitlab.com/yourgitlab">
+    <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/yourfacebook">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/yourinstagram">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <!-- Twitter -->
+  <a href="https://twitter.com/yourtwitter">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
 </div>
 
 </br>
@@ -207,41 +132,6 @@
   <img
     src="https://github-readme-stats.vercel.app/api?username=joshi20022021&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=71A5FD&icon_color=71A5FD&text_color=71A5FD&bg_color=ffffff&hide=stars"
     alt="joshi20022021 GitHub Stats">
-  
-  <a href="https://stackoverflow.com/users/5272951/dumbo">
-      <img
-        src="https://stackoverflow-card.vercel.app/?userID=5272951&theme=stackoverflow-light"
-        alt="Dumbo StackOverflow">
-  </a>
-  </br>
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=joshi20022021&margin-w=15&margin-h=15&no-bg=true&no-frame=true"
-    alt="joshi20022021 GitHub Awards">
-</div>
-
-<div align="center">
-  </br>
-  <a href="https://www.linkedin.com/in/edgarjosias/">
-    <img
-      src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin"
-      alt="LinkedIn">
-  </a>
-  <a href="https://www.instagram.com/e2.edas/">
-    <img
-      src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram"
-      alt="Instagram">
-  </a>
-  <a href="https://github.com/joshi20022021">
-    <img
-      src="https://img.shields.io/badge/GitHub--_.svg?style=social&logo=github"
-      alt="GitHub">
-  </a>
-
-  </br>
-
-  <img
-    src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/joshi20022021/&title=Profile%20Views"
-    alt="Profile Views">
 </div>
 
 <!-- FOOTER -->
@@ -249,19 +139,3 @@
   <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=100&section=footer&fontSize=30&type=waving&fontColor=fefefe"
   alt="footer" />
 </div>
-
-<!--
-USED:
-1. Markdown: https://github.github.com/gfm/
-2. Icons: https://github.com/devicons/devicon/tree/v2.14.0/icons
-3. Header/Footer: https://github.com/kyechan99/capsule-render
-4. GitHub streak: https://github-readme-streak-stats.herokuapp.com/demo/
-5. GitHub trophy: https://github.com/ryo-ma/github-profile-trophy
-6. Badges: https://shields.io
--->
-
-------
-
-Credit: [joshi20022021](https://github.com/joshi20022021)
-
-Last Edited on: 04/04/2022
