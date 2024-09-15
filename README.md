@@ -58,9 +58,9 @@
     alt="C++">
     &nbsp;&nbsp;&nbsp;&nbsp;
     
-  <!-- Frameworks -->
+  <!-- Frameworks/Technologies -->
   </br>
-  <h3>Frameworks</h3>
+  <h3>Frameworks/Technologies</h3>
   <img
     src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg?raw=true"
     width="60px"
@@ -80,6 +80,16 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"
     width="60px"
     alt="React">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Light.svg?raw=true"
+    width="60px"
+    alt="GitHub-Light">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitLab-Light.svg?raw=true"
+    width="60px"
+    alt="GitLab-Light">
     &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
@@ -140,18 +150,6 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
 
-  <!-- GitHub -->
-  <a href="https://github.com/joshi20022021">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Light.svg?raw=true" width="60px" alt="GitHub">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <!-- GitLab -->
-  <a href="https://gitlab.com/yourgitlab">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitLab-Light.svg?raw=true" width="60px" alt="GitLab">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
   <!-- Facebook -->
   <a href="https://www.facebook.com/yourfacebook">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
@@ -176,14 +174,22 @@
 
 <!-- STATS -->
 <div align="center" width="100" style="background-color: #000000; color: #ffffff;">
-  <h1>Statistic</h1>
-    <img
-      src="https://github-readme-streak-stats.herokuapp.com?user=joshi20022021&theme=tokyonight&hide_border=true&date_format=%5BY%20%5DM%20j&background=000000&currStreakNum=00BFFF&currStreakLabel=00BFFF&dates=61D9E1"
-      alt="joshi20022021 GitHub Streak">
+  <h1>Statistics</h1>
+  
+  <!-- GitHub Stats -->
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=joshi20022021&theme=tokyonight&hide_border=true&date_format=%5BY%20%5DM%20j&background=000000&currStreakNum=00BFFF&currStreakLabel=00BFFF&dates=61D9E1"
+    alt="joshi20022021 GitHub Streak">
   </br>
   <img
     src="https://github-readme-stats.vercel.app/api?username=joshi20022021&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=00BFFF&icon_color=00BFFF&text_color=00BFFF&bg_color=000000&hide=stars"
     alt="joshi20022021 GitHub Stats">
+  </br>
+  
+  <!-- Most Used Languages -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshi20022021&layout=compact&title_color=00BFFF&text_color=00BFFF&bg_color=000000"
+    alt="Most Used Languages">
 </div>
 
 <!-- FOOTER -->
