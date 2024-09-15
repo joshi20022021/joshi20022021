@@ -1,11 +1,11 @@
 <!-- HEADER -->
 <div align="center" width="100">
-  <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=250&section=header&text=Edgar%20Josías%20Cán%20Ajquejay&fontSize=30&type=waving&fontColor=fefefe&&animation=fadeIn"
+  <img src="https://capsule-render.vercel.app/api?color=0:001f3f,50:001f3f,100:000080&height=250&section=header&text=Edgar%20Josías%20Cán%20Ajquejay&fontSize=30&type=waving&fontColor=ffffff&&animation=fadeIn"
   alt="header"/>
 </div>
 
 <!-- STACK -->
-<div align="center" width="100">
+<div align="center" width="100" style="background-color: #000000; color: #ffffff;">
   <h1>Stack</h1>
   
   <!-- Languages -->
@@ -34,7 +34,17 @@
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"
     width="60px"
-    alt="css3">
+    alt="CSS3">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg?raw=true"
+    width="60px"
+    alt="Python-Light">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg?raw=true"
+    width="60px"
+    alt="C++">
     &nbsp;&nbsp;&nbsp;&nbsp;
     
   <!-- Frameworks -->
@@ -44,11 +54,6 @@
     src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg?raw=true"
     width="60px"
     alt="Django">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg?raw=true"
-    width="60px"
-    alt="Python-Light">
     &nbsp;&nbsp;&nbsp;&nbsp;
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
@@ -68,7 +73,7 @@
 </div>
 
 <!-- SKILLS -->
-<div align="center" width="100">
+<div align="center" width="100" style="background-color: #000000; color: #ffffff;">
   <h1>Skills</h1>
   
   <img
@@ -103,7 +108,7 @@
 </br>
 
 <!-- CONTACT -->
-<div align="center" width="100">
+<div align="center" width="100" style="background-color: #000000; color: #ffffff;">
   <h1>📱 Contact</h1>
 
   <!-- Gmail -->
@@ -159,19 +164,19 @@
 </br>
 
 <!-- STATS -->
-<div align="center" width="100">
+<div align="center" width="100" style="background-color: #000000; color: #ffffff;">
   <h1>Statistic</h1>
     <img
-      src="https://github-readme-streak-stats.herokuapp.com?user=joshi20022021&theme=tokyonight&hide_border=true&date_format=%5BY%20%5DM%20j&background=FFFFFF&currStreakNum=71A5FD&currStreakLabel=71A5FD&dates=61D9E1"
+      src="https://github-readme-streak-stats.herokuapp.com?user=joshi20022021&theme=tokyonight&hide_border=true&date_format=%5BY%20%5DM%20j&background=000000&currStreakNum=00BFFF&currStreakLabel=00BFFF&dates=61D9E1"
       alt="joshi20022021 GitHub Streak">
   </br>
   <img
-    src="https://github-readme-stats.vercel.app/api?username=joshi20022021&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=71A5FD&icon_color=71A5FD&text_color=71A5FD&bg_color=ffffff&hide=stars"
+    src="https://github-readme-stats.vercel.app/api?username=joshi20022021&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=00BFFF&icon_color=00BFFF&text_color=00BFFF&bg_color=000000&hide=stars"
     alt="joshi20022021 GitHub Stats">
 </div>
 
 <!-- FOOTER -->
 <div align="center" width="100">
-  <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=100&section=footer&fontSize=30&type=waving&fontColor=fefefe"
+  <img src="https://capsule-render.vercel.app/api?color=0:001f3f,50:001f3f,100:000080&height=100&section=footer&fontSize=30&type=waving&fontColor=fefefe"
   alt="footer" />
 </div>
