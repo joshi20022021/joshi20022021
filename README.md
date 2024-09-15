@@ -1,7 +1,18 @@
 <!-- HEADER -->
 <div align="center" width="100">
+  <h1>👋 ¡Hola, bienvenido a mi perfil!</h1>
   <img src="https://capsule-render.vercel.app/api?color=0:001f3f,50:001f3f,100:000080&height=250&section=header&text=Edgar%20Josías%20Cán%20Ajquejay&fontSize=30&type=waving&fontColor=ffffff&&animation=fadeIn"
   alt="header"/>
+</div>
+
+<!-- SOBRE MÍ -->
+<div align="center" width="100" style="background-color: #000000; color: #ffffff;">
+  <h1>Sobre mí</h1>
+  <p style="font-size: 18px;">🎓 Soy estudiante de la <strong>Universidad de San Carlos de Guatemala</strong>.<br>
+  📚 Actualmente estoy en <strong>6to semestre</strong>.<br>
+  💡 Me encanta aprender nuevas cosas y siempre busco mejorar mis habilidades.<br>
+  🍕 ¡Especialmente disfruto de una buena pizza mientras estudio!<br>
+  </p>
 </div>
 
 <!-- STACK -->
@@ -131,13 +142,13 @@
 
   <!-- GitHub -->
   <a href="https://github.com/joshi20022021">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Light.svg?raw=true" width="60px" alt="GitHub">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
 
   <!-- GitLab -->
   <a href="https://gitlab.com/yourgitlab">
-    <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitLab-Light.svg?raw=true" width="60px" alt="GitLab">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -179,4 +190,10 @@
 <div align="center" width="100">
   <img src="https://capsule-render.vercel.app/api?color=0:001f3f,50:001f3f,100:000080&height=100&section=footer&fontSize=30&type=waving&fontColor=fefefe"
   alt="footer" />
+</div>
+
+<!-- FRASE MOTIVACIONAL -->
+<div align="center" width="100" style="background-color: #000000; color: #ffffff;">
+  <h2>“El único modo de hacer un gran trabajo es amar lo que haces.”</h2>
+  <p>- Steve Jobs</p>
 </div>
