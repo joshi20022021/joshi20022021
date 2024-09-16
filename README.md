@@ -9,7 +9,7 @@
 <div align="center" width="100" style="background-color: #000000; color: #ffffff;">
   <h1>Sobre mí</h1>
   <p style="font-size: 18px;">🎓 Soy estudiante de la <strong>Universidad de San Carlos de Guatemala</strong>.<br>
-  📚 Actualmente estoy en <strong>6to semestre</strong>.<br>
+  📚 Actualmente estoy en <strong>7mo semestre</strong>.<br>
   💡 Me encanta aprender nuevas cosas y siempre busco mejorar mis habilidades.<br>
   🍕 ¡Especialmente disfruto de una buena pizza mientras estudio!<br>
   </p>
