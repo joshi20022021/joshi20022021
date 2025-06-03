@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hello, I'm Edgar Josías Cán Ajquejay</h1>
-  <img src="https://capsule-render.vercel.app/api?color=0:1e3a8a,50:3b82f6,100:06b6d4&height=200&section=header&text=Full%20Stack%20Developer&fontSize=35&type=waving&fontColor=ffffff&animation=fadeIn"
+  <img src="https://capsule-render.vercel.app/api?color=0:1e3a8a,50:3b82f6,100:06b6d4&height=200&section=header&text=Student%20Developer&fontSize=35&type=waving&fontColor=ffffff&animation=fadeIn"
   alt="header"/>
 </div>
 
