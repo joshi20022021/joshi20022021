@@ -6,7 +6,7 @@
 
 <!-- BADGES PROFESIONALES -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Engineer%20IN%20Science%20AND%20SYSTEMS-blue?style=for-the-badge" alt="Student"/>
+  <img src="https://img.shields.io/badge/Engineer%20IN%20Science-blue?style=for-the-badge" alt="Student"/>
   <img src="https://img.shields.io/badge/University-USAC-green?style=for-the-badge" alt="University"/>
   <img src="https://img.shields.io/badge/Semester-7th-orange?style=for-the-badge" alt="Semester"/>
   <img src="https://img.shields.io/badge/Status-Available%20for%20Internships-brightgreen?style=for-the-badge" alt="Status"/>
