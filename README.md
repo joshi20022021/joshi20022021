@@ -125,64 +125,51 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshi20022021&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
 </div>
 
-<!-- TROPHIES -->
-<div align="center">
-  <h2>🏆 GitHub Trophies</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=joshi20022021&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
-</div>
-
-<!-- CODING STATS -->
-<div align="center">
-  <h2>⚡ Coding Stats</h2>
-  
-  <!--START_SECTION:waka-->
-  ```text
-  📊 This week I spent my time on:
-  
-  💻 Languages:
-  Java         8 hrs 15 mins   ████████████░░░   45.2%
-  JavaScript   4 hrs 30 mins   ██████░░░░░░░░░░░   24.7%
-  TypeScript   3 hrs 20 mins   ████░░░░░░░░░░░░░   18.3%
-  Python       1 hr 30 mins    ██░░░░░░░░░░░░░░░   8.2%
-  CSS          40 mins         ░░░░░░░░░░░░░░░░░   3.6%
-  ```
-  <!--END_SECTION:waka-->
-</div>
-
-<!-- FEATURED PROJECTS -->
-<div align="center">
-  <h2>🚀 Featured Projects</h2>
-  
-  <a href="https://github.com/joshi20022021/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=joshi20022021&repo=project1&theme=react&hide_border=true&bg_color=0D1117" alt="Project 1"/>
-  </a>
-  
-  <a href="https://github.com/joshi20022021/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=joshi20022021&repo=project2&theme=react&hide_border=true&bg_color=0D1117" alt="Project 2"/>
-  </a>
-</div>
-
-<!-- LATEST BLOG POSTS -->
-<div align="center">
-  <h2>📝 Latest Blog Posts</h2>
-  
-  <!-- BLOG-POST-LIST:START -->
-  - [Understanding React Hooks](https://yourblog.com/react-hooks)
-  - [Java Best Practices for Students](https://yourblog.com/java-practices)
-  - [Getting Started with Database Design](https://yourblog.com/database-design)
-  <!-- BLOG-POST-LIST:END -->
-</div>
-
 <!-- RANDOM DEV QUOTE -->
 <div align="center">
   <h2>💭 Random Dev Quote</h2>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 </div>
 
-<!-- SPOTIFY ACTIVITY -->
+<!-- SPOTIFY ACTIVITY MEJORADO -->
 <div align="center">
-  <h2>🎵 Currently Listening To</h2>
-  <img src="https://spotify-github-profile.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350"/>
+  <h2>🎵 What I'm Listening To</h2>
+  
+  <!-- Spotify Now Playing -->
+  <img src="https://spotify-github-profile.vercel.app/api/spotify-playing?username=joshi20022021&background_color=0d1117&border_color=58a6ff" alt="Spotify Now Playing" width="400"/>
+  
+  <!-- Top Tracks -->
+  <h3>🎼 My Top Tracks</h3>
+  <img src="https://spotify-github-profile.vercel.app/api/spotify-top-tracks?username=joshi20022021&background_color=0d1117&border_color=58a6ff" alt="Top Tracks" width="400"/>
+  
+  <!-- Recently Played -->
+  <h3>🕐 Recently Played</h3>
+  <img src="https://spotify-github-profile.vercel.app/api/spotify-recently-played?username=joshi20022021&background_color=0d1117&border_color=58a6ff" alt="Recently Played" width="400"/>
+  
+  <!-- Music Stats -->
+  <h3>📈 Music Stats</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
+    <img src="https://img.shields.io/badge/Music_Lover-Always%20Coding%20with%20Music-green?style=for-the-badge&logo=music&logoColor=white" alt="Music Lover"/>
+  </p>
+  
+  <!-- Favorite Genres -->
+  <h3>🎭 Favorite Genres</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Electronic-FF6B6B?style=flat-square" alt="Electronic"/>
+    <img src="https://img.shields.io/badge/Jazz-4ECDC4?style=flat-square" alt="Jazz"/>
+    <img src="https://img.shields.io/badge/Lo--Fi-45B7D1?style=flat-square" alt="Lo-Fi"/>
+    <img src="https://img.shields.io/badge/Classical-96CEB4?style=flat-square" alt="Classical"/>
+    <img src="https://img.shields.io/badge/Rock-FECA57?style=flat-square" alt="Rock"/>
+    <img src="https://img.shields.io/badge/Pop-FF9FF3?style=flat-square" alt="Pop"/>
+  </p>
+  
+  <!-- Connect on Spotify -->
+  <p>
+    <a href="https://open.spotify.com/user/joshi20022021">
+      <img src="https://img.shields.io/badge/Follow%20on%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Follow on Spotify"/>
+    </a>
+  </p>
 </div>
 
 <!-- CONTACT -->
