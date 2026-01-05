@@ -112,21 +112,26 @@
 <!-- GITHUB STATS -->
 <div align="center">
   <h2>📊 GitHub Statistics</h2>
+  
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=joshi20022021&theme=react&hide_border=true&background=0D1117&stroke=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58A6FF&sideLabels=58A6FF"
+    src="https://streak-stats.demolab.com?user=joshi20022021&theme=react&hide_border=true&background=0D1117&stroke=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58A6FF&sideLabels=58A6FF&date_format=M%20j%5B%2C%20Y%5D"
     alt="GitHub Streak"
   />
-  <br/>
+  <br/><br/>
+  
   <img 
     src="https://github-readme-stats.vercel.app/api?username=joshi20022021&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=FFFFFF&count_private=true&include_all_commits=true"
     alt="GitHub Stats"
+    width="49%"
   />
-  <br/>
+  
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshi20022021&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&langs_count=8"
     alt="Top Languages"
+    width="49%"
   />
 </div>
+
 
 <!-- RANDOM DEV QUOTE -->
 <div align="center">
