@@ -113,20 +113,22 @@
 <div align="center">
   <h2>📊 GitHub Statistics</h2>
   
+  <!-- Streak Stats - URL alternativa que funciona -->
   <img 
-    src="https://streak-stats.demolab.com?user=joshi20022021&theme=react&hide_border=true&background=0D1117&stroke=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58A6FF&sideLabels=58A6FF&date_format=M%20j%5B%2C%20Y%5D"
+    src="https://github-readme-streak-stats-eight.vercel.app?user=joshi20022021&theme=react&hide_border=true&background=0D1117&stroke=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58A6FF&sideLabels=58A6FF"
     alt="GitHub Streak"
   />
   <br/><br/>
   
+  <!-- Stats y Languages lado a lado -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=joshi20022021&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=FFFFFF&count_private=true&include_all_commits=true"
+    src="https://github-readme-stats.vercel.app/api?username=joshi20022021&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=FFFFFF&count_private=true&include_all_commits=true&cache_seconds=1800"
     alt="GitHub Stats"
     width="49%"
   />
   
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshi20022021&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&langs_count=8"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshi20022021&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&langs_count=8&cache_seconds=1800"
     alt="Top Languages"
     width="49%"
   />
