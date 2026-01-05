@@ -112,24 +112,31 @@
 <!-- GITHUB STATS -->
 <div align="center">
   <h2>📊 GitHub Statistics</h2>
-  
-  <a href="https://github.com/joshi20022021">
-    <img 
-      height=200 
-      align="center" 
-      src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=joshi20022021&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=FFFFFF&count_private=true&include_all_commits=true"
-      alt="GitHub Stats"
-    />
-  </a>
-  <a href="https://github.com/joshi20022021">
-    <img 
-      height=200 
-      align="center" 
-      src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=joshi20022021&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&langs_count=8&card_width=320"
-      alt="Top Languages"
-    />
-  </a>
+
+  <!-- 1) Streak (este ya te funciona) -->
+  <p>
+    <img src="https://streak-stats.demolab.com?user=joshi20022021&theme=transparent&border_radius=10&border=58A6FF" alt="GitHub Streak" />
+  </p>
+
+  <!-- 2) Stats card (alternativa estable) -->
+  <p>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joshi20022021&theme=transparent" alt="GitHub Stats" />
+  </p>
+
+  <!-- 3) Top languages (elige UNO de estos dos) -->
+  <p>
+    <!-- Opción A: lenguajes por repos -->
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joshi20022021&theme=transparent" alt="Top Languages (repos)" />
+  </p>
+
+  <!--
+  <p>
+    Opción B: lenguajes por commits
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joshi20022021&theme=transparent" alt="Top Languages (commits)" />
+  </p>
+  -->
 </div>
+
 
 
 
