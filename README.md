@@ -6,7 +6,7 @@
 
 <!-- BADGES -->
 <div align="center">
-  <img src="https://img.shields.io/badge/🎓_Cierre_de_Pensum-Ingeniería_en_Sistemas-1e3a8a?style=for-the-badge&labelColor=0f172a" alt="Cierre de Pensum"/>
+  <img src="https://img.shields.io/badge/🎓_Final_Year-Computer_Science-1e3a8a?style=for-the-badge&labelColor=0f172a" alt="Final Year"/>
   &nbsp;
   <img src="https://img.shields.io/badge/🏛️_USAC-Guatemala-16a34a?style=for-the-badge&labelColor=0f172a" alt="USAC"/>
   &nbsp;
@@ -17,7 +17,7 @@
 
 <!-- TYPING ANIMATION -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&pause=1000&color=38BDF8&center=true&vCenter=true&width=480&lines=Computer+Science+%7C+USAC+%F0%9F%8E%93;Full+Stack+Developer+%F0%9F%92%BB;Cierre+de+Pensum+%F0%9F%9A%80;Always+building+something+new+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&pause=1000&color=38BDF8&center=true&vCenter=true&width=480&lines=Computer+Science+%7C+USAC+%F0%9F%8E%93;Full+Stack+Developer+%F0%9F%92%BB;Final+Year+Student+%F0%9F%9A%80;Always+building+something+new+%E2%9C%A8" alt="Typing SVG" />
 </div>
 
 ---
@@ -27,8 +27,8 @@
 ```yaml
 name       : Edgar Josías Cán Ajquejay
 university : Universidad de San Carlos de Guatemala
-faculty    : Facultad de Ingeniería — ECYS
-status     : Cierre de Pensum 🎓
+faculty    : Faculty of Engineering — ECYS
+status     : Final Year Student 🎓
 location   : Guatemala City, Guatemala 🇬🇹
 interests  : Full Stack Dev · Cloud · Open Source
 ```
@@ -37,11 +37,11 @@ interests  : Full Stack Dev · Cloud · Open Source
 
 ## 🎯 Currently Working On
 
-- 🔭 **Finishing my degree** — Cierre de Pensum, enfocado en el proyecto final
-- ☁️ Explorando **AWS & Azure** para soluciones cloud
-- ⚛️ Profundizando en **React avanzado y Node.js**
-- 🤝 Buscando colaborar en **proyectos open source**
-- 💬 Pregúntame sobre **Java, JavaScript o desarrollo web**
+- 🔭 **Finishing my degree** — focused on my final year project
+- ☁️ Exploring **AWS & Azure** for cloud-native solutions
+- ⚛️ Deepening my knowledge in **advanced React and Node.js**
+- 🤝 Looking to collaborate on **open source projects**
+- 💬 Ask me about **Java, JavaScript, or web development**
 
 ---
 
