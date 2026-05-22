@@ -1,223 +1,165 @@
 <div align="center">
-  <h1>👋 Hello, I'm Edgar Josías Cán Ajquejay</h1>
 
-  <img 
-    src="https://capsule-render.vercel.app/api?color=0:1e3a8a,50:3b82f6,100:06b6d4&height=200&section=header&text=Student%20Developer&fontSize=35&type=waving&fontColor=ffffff&animation=fadeIn"
-    alt="header"
-  />
+<img src="https://capsule-render.vercel.app/api?color=0:0f172a,40:1e3a8a,80:2563eb,100:06b6d4&height=220&section=header&text=Edgar%20Josías%20Cán%20Ajquejay&fontSize=30&type=waving&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20%7C%20USAC&descAlignY=58&descSize=16" alt="header" />
+
 </div>
 
-<!-- BADGES PROFESIONALES -->
+<!-- BADGES -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Computer%20Science-blue?style=for-the-badge" alt="Student"/>
-  <img src="https://img.shields.io/badge/University-USAC-green?style=for-the-badge" alt="University"/>
-  <img src="https://img.shields.io/badge/Semester-9no-orange?style=for-the-badge" alt="Semester"/>
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Internships-brightgreen?style=for-the-badge" alt="Status"/>
+  <img src="https://img.shields.io/badge/🎓_Cierre_de_Pensum-Ingeniería_en_Sistemas-1e3a8a?style=for-the-badge&labelColor=0f172a" alt="Cierre de Pensum"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/🏛️_USAC-Guatemala-16a34a?style=for-the-badge&labelColor=0f172a" alt="USAC"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/🚀_Status-Open_to_Opportunities-06b6d4?style=for-the-badge&labelColor=0f172a" alt="Status"/>
 </div>
+
+<br/>
 
 <!-- TYPING ANIMATION -->
 <div align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Full+Stack+Developer;Always+learning+new+things;Let's+build+something+amazing!"
-    alt="Typing SVG"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&pause=1000&color=38BDF8&center=true&vCenter=true&width=480&lines=Computer+Science+%7C+USAC+%F0%9F%8E%93;Full+Stack+Developer+%F0%9F%92%BB;Cierre+de+Pensum+%F0%9F%9A%80;Always+building+something+new+%E2%9C%A8" alt="Typing SVG" />
 </div>
 
-<!-- ABOUT ME -->
+---
+
+## 🙋‍♂️ About Me
+
+```yaml
+name       : Edgar Josías Cán Ajquejay
+university : Universidad de San Carlos de Guatemala
+faculty    : Facultad de Ingeniería — ECYS
+status     : Cierre de Pensum 🎓
+location   : Guatemala City, Guatemala 🇬🇹
+interests  : Full Stack Dev · Cloud · Open Source
+```
+
+---
+
+## 🎯 Currently Working On
+
+- 🔭 **Finishing my degree** — Cierre de Pensum, enfocado en el proyecto final
+- ☁️ Explorando **AWS & Azure** para soluciones cloud
+- ⚛️ Profundizando en **React avanzado y Node.js**
+- 🤝 Buscando colaborar en **proyectos open source**
+- 💬 Pregúntame sobre **Java, JavaScript o desarrollo web**
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,ts,js,python,cpp&theme=dark&perline=5" />
+  </a>
+</p>
+
+### Frontend
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap&theme=dark&perline=5" />
+  </a>
+</p>
+
+### Backend & Databases
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,mysql,postgres,oracle&theme=dark&perline=5" />
+  </a>
+</p>
+
+### Tools & DevOps
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,idea&theme=dark&perline=5" />
+  </a>
+</p>
+
+### Design & Multimedia
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ps,ai,pr,ae&theme=dark&perline=5" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
-  <h2>🚀 About Me</h2>
-  <p>
-    🎓 Computer Science Student at <strong>Universidad de San Carlos de Guatemala</strong><br>
-    📚 Actualmente en <strong>9no</strong><br>
-    💻 Passionate about software development and emerging technologies<br>
-    🌱 Always learning and improving my technical skills<br>
-    🎯 Focused on creating efficient and scalable solutions<br>
-    🔍 Open to internships and collaboration opportunities<br>
-    📍 Guatemala City, Guatemala<br>
-  </p>
+  <img src="https://streak-stats.demolab.com?user=joshi20022021&theme=github-dark-blue&border_radius=12&border=2563EB&fire=38BDF8&ring=2563EB&currStreakLabel=38BDF8" alt="GitHub Streak" />
 </div>
 
-<!-- CURRENT FOCUS -->
+<br/>
+
 <div align="center">
-  <h2>🎯 Currently Working On</h2>
-  <p>
-    🔭 Building full-stack web applications<br>
-    🌱 Learning advanced React patterns and Node.js<br>
-    👯 Looking to collaborate on open source projects<br>
-    🤔 Exploring cloud technologies (AWS, Azure)<br>
-    💬 Ask me about Java, JavaScript, or web development<br>
-  </p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joshi20022021&theme=github_dark" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joshi20022021&theme=github_dark" alt="Top Languages" />
 </div>
 
-<!-- TECH STACK -->
+<br/>
+
 <div align="center">
-  <h2>💻 Tech Stack</h2>
-
-  <h3>Programming Languages</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  </p>
-
-  <h3>Frontend Development</h3>
-  <p>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  </p>
-
-  <h3>Backend & Databases</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  </p>
-
-  <h3>Tools & Version Control</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
-    <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
-    <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ"/>
-  </p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joshi20022021&bg_color=0d1117&color=38bdf8&line=2563eb&point=ffffff&area=true&area_color=1e3a8a&hide_border=true&radius=12" alt="GitHub Activity Graph" />
 </div>
 
-<!-- DESIGN SKILLS -->
+---
+
+## 💭 Dev Quote
+
 <div align="center">
-  <h2>🎨 Design & Multimedia</h2>
-  <p>
-    <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Photoshop"/>
-    <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Illustrator"/>
-    <img src="https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=for-the-badge&logo=adobe%20premiere%20pro&logoColor=white" alt="Premiere Pro"/>
-    <img src="https://img.shields.io/badge/Adobe_After_Effects-9999FF?style=for-the-badge&logo=adobe%20after%20effects&logoColor=white" alt="After Effects"/>
-    <img src="https://img.shields.io/badge/Adobe_Audition-9999FF?style=for-the-badge&logo=adobe%20audition&logoColor=white" alt="Audition"/>
-  </p>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote"/>
 </div>
 
-<!-- GITHUB ACTIVITY GRAPH -->
+---
+
+## 🎵 Music Vibes
+
 <div align="center">
-  <h2>📈 Contribution Graph</h2>
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=joshi20022021&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true"
-    alt="GitHub Activity Graph"
-  />
+
+| Electronic | Jazz | Lo-Fi | Classical | Rock | Pop |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 🎛️ | 🎷 | 🎧 | 🎻 | 🎸 | 🎤 |
+
+[![Spotify](https://img.shields.io/badge/Follow_on_Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/joshi20022021)
+
 </div>
 
-<!-- GITHUB STATS -->
+---
+
+## 📬 Let's Connect
+
 <div align="center">
-  <h2>📊 GitHub Statistics</h2>
 
-  <!-- 1) Streak (este ya te funciona) -->
-  <p>
-    <img src="https://streak-stats.demolab.com?user=joshi20022021&theme=transparent&border_radius=10&border=58A6FF" alt="GitHub Streak" />
-  </p>
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your_email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourlinkedin)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/yourwhatsappnumber)
+[![Twitter](https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/yourtwitter)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourdiscord)
 
-  <!-- 2) Stats card (alternativa estable) -->
-  <p>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joshi20022021&theme=transparent" alt="GitHub Stats" />
-  </p>
-
-  <!-- 3) Top languages (elige UNO de estos dos) -->
-  <p>
-    <!-- Opción A: lenguajes por repos -->
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joshi20022021&theme=transparent" alt="Top Languages (repos)" />
-  </p>
-
-  <!--
-  <p>
-    Opción B: lenguajes por commits
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joshi20022021&theme=transparent" alt="Top Languages (commits)" />
-  </p>
-  -->
 </div>
 
+---
 
-
-
-<!-- RANDOM DEV QUOTE -->
 <div align="center">
-  <h2>💭 Random Dev Quote</h2>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-</div>
 
-<!-- SPOTIFY GENRES -->
-<div align="center">
-  <h2>🎵 What I'm Listening To</h2>
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
-  <h3>🎭 Favorite Genres</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Electronic-FF6B6B?style=flat-square" alt="Electronic"/>
-    <img src="https://img.shields.io/badge/Jazz-4ECDC4?style=flat-square" alt="Jazz"/>
-    <img src="https://img.shields.io/badge/Lo--Fi-45B7D1?style=flat-square" alt="Lo-Fi"/>
-    <img src="https://img.shields.io/badge/Classical-96CEB4?style=flat-square" alt="Classical"/>
-    <img src="https://img.shields.io/badge/Rock-FECA57?style=flat-square" alt="Rock"/>
-    <img src="https://img.shields.io/badge/Pop-FF9FF3?style=flat-square" alt="Pop"/>
-  </p>
+<br/>
 
-  <p>
-    <a href="https://open.spotify.com/user/joshi20022021">
-      <img 
-        src="https://img.shields.io/badge/Follow%20on%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"
-        alt="Follow on Spotify"
-      />
-    </a>
-  </p>
-</div>
+<img src="https://capsule-render.vercel.app/api?color=0:0f172a,40:1e3a8a,80:2563eb,100:06b6d4&height=120&section=footer&type=waving" alt="footer" />
 
-<!-- CONTACT -->
-<div align="center">
-  <h2>📫 Let's Connect</h2>
-  <p>
-    <a href="mailto:your_email@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-    </a>
-    <a href="https://www.linkedin.com/in/yourlinkedin">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="https://wa.me/yourwhatsappnumber">
-      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-    </a>
-    <a href="https://twitter.com/yourtwitter">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-    </a>
-    <a href="https://discord.gg/yourdiscord">
-      <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-    </a>
-  </p>
-</div>
+<br/>
 
-<!-- FOOTER -->
-<div align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?color=0:1e3a8a,50:3b82f6,100:06b6d4&height=100&section=footer&type=waving"
-    alt="footer"
-  />
-  <h3>💡 "The only way to do great work is to love what you do." - Steve Jobs</h3>
+*💡 "The only way to do great work is to love what you do." — Steve Jobs*
 
-  <p>
-    <img 
-      src="https://komarev.com/ghpvc/?username=joshi20022021&color=58A6FF&style=flat-square&label=Profile+Views"
-      alt="Profile views"
-    />
-    <img 
-      src="https://img.shields.io/github/followers/joshi20022021?label=Followers&style=social"
-      alt="GitHub Followers"
-    />
-  </p>
+<br/>
 
-  <p><em>⭐️ From <a href="https://github.com/joshi20022021">joshi20022021</a></em></p>
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=joshi20022021&color=2563EB&style=flat-square&label=Profile+Views)
+&nbsp;
+![Followers](https://img.shields.io/github/followers/joshi20022021?label=Followers&style=social)
 
-<!-- Snake Animation -->
-<div align="center">
-  <img 
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-    alt="Snake animation"
-  />
+⭐️ From [joshi20022021](https://github.com/joshi20022021)
+
 </div>
