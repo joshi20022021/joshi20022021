@@ -94,7 +94,7 @@ interests  : Full Stack Dev · Cloud · Open Source
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | 🎛️ | 🎷 | 🎧 | 🎻 | 🎸 | 🎤 |
 
-[![Spotify](https://img.shields.io/badge/Follow_on_Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/joshi20022021)
+[![Spotify](https://img.shields.io/badge/Follow_on_Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31wod6vloz4q3bpw6zd2fxwjchsi?si=18065780d7d647c1)
 
 </div>
 
@@ -104,11 +104,11 @@ interests  : Full Stack Dev · Cloud · Open Source
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your_email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourlinkedin)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/yourwhatsappnumber)
-[![Twitter](https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/yourtwitter)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourdiscord)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josiascan2002@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edgar-josías-cán-ajquejay-07143a245)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/50237624286)
+[![Twitter](https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/can_josias)
+[![Discord](https://img.shields.io/badge/Discord-joshi1951-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/joshi1951)
 
 </div>
 
