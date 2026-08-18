@@ -21,7 +21,6 @@
 ```yaml
 name       : Edgar Josías Cán Ajquejay
 status     : Final Year Student 🎓
-location   : Guatemala City, Guatemala 🇬🇹
 interests  : Full Stack Dev · Cloud · Open Source
 ```
 
