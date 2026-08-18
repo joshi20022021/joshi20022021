@@ -1,18 +1,17 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?color=0:0f172a,40:1e3a8a,80:2563eb,100:06b6d4&height=220&section=header&text=Edgar%20Josías%20Cán%20Ajquejay&fontSize=30&type=waving&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20%7C%20USAC&descAlignY=58&descSize=16" alt="header" />
+<img src="https://capsule-render.vercel.app/api?color=0:0f172a,40:1e3a8a,80:2563eb,100:06b6d4&height=220&section=header&text=Edgar%20Josías%20Cán%20Ajquejay&fontSize=30&type=waving&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science&descAlignY=58&descSize=16" alt="header" />
 </div>
 
 <!-- BADGES -->
 <div align="center">
 <img src="https://img.shields.io/badge/🎓_Final_Year-Computer_Science-1e3a8a?style=for-the-badge&labelColor=0f172a" alt="Final Year"/>&nbsp;
-<img src="https://img.shields.io/badge/🏛️_USAC-Guatemala-16a34a?style=for-the-badge&labelColor=0f172a" alt="USAC"/>&nbsp;
 <img src="https://img.shields.io/badge/🚀_Status-Open_to_Opportunities-06b6d4?style=for-the-badge&labelColor=0f172a" alt="Status"/>
 </div>
 <br/>
 
 <!-- TYPING ANIMATION -->
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&pause=1000&color=38BDF8&center=true&vCenter=true&width=480&lines=Computer+Science+%7C+USAC+%F0%9F%8E%93;Full+Stack+Developer+%F0%9F%92%BB;Final+Year+Student+%F0%9F%9A%80;Always+building+something+new+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&pause=1000&color=38BDF8&center=true&vCenter=true&width=480&lines=Computer+Science+%F0%9F%8E%93;Full+Stack+Developer+%F0%9F%92%BB;Final+Year+Student+%F0%9F%9A%80;Always+building+something+new+%E2%9C%A8" alt="Typing SVG" />
 </div>
 
 ---
@@ -21,8 +20,6 @@
 
 ```yaml
 name       : Edgar Josías Cán Ajquejay
-university : Universidad de San Carlos de Guatemala
-faculty    : Faculty of Engineering — ECYS
 status     : Final Year Student 🎓
 location   : Guatemala City, Guatemala 🇬🇹
 interests  : Full Stack Dev · Cloud · Open Source
