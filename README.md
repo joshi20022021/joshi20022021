@@ -134,16 +134,16 @@ Intérprete de un subconjunto de Go desarrollado en C# con ANTLR4, ejecución de
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=joshi20022021&show_icons=true&theme=github_dark&hide_border=true&count_private=true&locale=es" alt="Estadísticas de GitHub" height="175" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshi20022021&layout=compact&theme=github_dark&hide_border=true&locale=es" alt="Lenguajes más utilizados" height="175" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joshi20022021&theme=github_dark" alt="Resumen del perfil de GitHub" width="100%" />
+
+<br />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joshi20022021&theme=github_dark" alt="Lenguajes más utilizados en repositorios" height="190" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joshi20022021&theme=github_dark" alt="Estadísticas de GitHub" height="190" />
 
 <br />
 
 <img src="https://streak-stats.demolab.com?user=joshi20022021&theme=github-dark-blue&hide_border=true&border_radius=8&fire=00D1B2&ring=00D1B2&currStreakLabel=75F6E0&locale=es" alt="Racha de contribuciones" />
-
-<br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=joshi20022021&bg_color=0d1117&color=75f6e0&line=00d1b2&point=ffffff&area=true&area_color=0f766e&hide_border=true&radius=8" alt="Gráfica de actividad de GitHub" width="100%" />
 
 </div>
 
